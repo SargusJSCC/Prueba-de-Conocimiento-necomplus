@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM + Last.fm</string>
+    <string name="btn_view_tracks">Ver canciones</string>
+    <string name="lista_de_canciones">Lista de canciones</string>
+    <string name="jhon_doe">Jhon doe</string>
+    <string name="_56442">56442</string>
+    <string name="www_example_com">www.example.com</string>
+
+</resources>
